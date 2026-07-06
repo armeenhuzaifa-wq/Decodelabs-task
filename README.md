@@ -37,35 +37,43 @@ UI/UX & Graphic Designer
 
 ---
 
-# Project 2 – Low-Fidelity Wireframe (E-Commerce App)
+# Project 2: Low-Fidelity Wireframe – E-Commerce Home Screen
 
-## About
-This project showcases a low-fidelity wireframe for an E-Commerce mobile application home screen. The design focuses on layout, navigation, and user experience before applying colors and visual design.
+## 📖 Project Overview
+This project presents a low-fidelity wireframe for an E-Commerce Mobile Application Home Screen. The design focuses on creating a clean and user-friendly layout that helps users easily browse products, explore categories, and access important features before moving to high-fidelity design.
 
-## Objective
-- Create a clean home screen layout.
-- Improve user navigation.
-- Organize products effectively.
+## 🎯 Objective
+- Design a simple and organized home screen layout.
+- Improve user navigation and shopping experience.
+- Create a clear structure before visual design.
 
-## Features
+## ✨ Features
+- Navigation Menu
 - Search Bar
-- Banner Section
+- Promotional Banner
 - Product Categories
-- Featured Products
-- Best Sellers
+- Featured Products Section
+- Best Sellers / Deals Section
 - Shopping Cart
 - Wishlist
-- Bottom Navigation
+- Bottom Navigation Bar
+- Service Highlights (Free Delivery, Easy Returns, Secure Payment, 24/7 Support)
 
-## Tools Used
+## 🛠️ Tools Used
 - Figma
 
-## Preview
+## 🎨 Design Type
+Low-Fidelity Wireframe
 
-(Add wireframe image here)
+## 🔗 Figma Design
+https://www.figma.com/design/aYlKoOAn3ZBsc3l9XrhBmp/Untitled?node-id=43-201&t=cne1Q8XUzV3cmzMO-1
 
-## What I Learned
-- Low-Fidelity Wireframing
-- Mobile UI Layout
-- UX Planning
-- Information Hierarchy
+## 📷 Preview
+Upload the wireframe screenshot in your repository and replace the filename below if needed.
+
+```md
+![Wireframe Preview](wireframe-home-screen.png)
+```
+
+## 👩‍💻 Author
+Armeen Huzaifa
