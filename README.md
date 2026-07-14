@@ -18,6 +18,10 @@ Created an empathy map to understand user needs, goals, frustrations, and behavi
 ## Tools Used
 - Figma
 
+## 🎨 Figma Prototype
+](https://www.figma.com/board/uWNKla1E7qRLgV31bBzqED/Untitled?node-id=0-1&t=ZKsX3ukmZru3Fhhf-1)
+
+
 ## Skills
 - UX Research
 - User Persona
