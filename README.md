@@ -1,9 +1,6 @@
 # DecodeLabs UI/UX Tasks
 
-## About
-This repository contains my UI/UX design assignments completed during my learning journey.
-
-## Projects
+## Projects 1:User Persona
 
 ### Mobile Accessories App
 - User Persona
@@ -31,9 +28,6 @@ Created an empathy map to understand user needs, goals, frustrations, and behavi
 ## Author
 Armeen Huzaifa
 UI/UX & Graphic Designer
-
-
-
 
 ---
 
@@ -68,16 +62,10 @@ Low-Fidelity Wireframe
 ## 🔗 Figma Design
 https://www.figma.com/design/aYlKoOAn3ZBsc3l9XrhBmp/Untitled?node-id=43-201&t=cne1Q8XUzV3cmzMO-1
 
-## 📷 Preview
-Upload the wireframe screenshot in your repository and replace the filename below if needed.
 
 ```md
-![Wireframe Preview](wireframe-home-screen.png)
+!
 ```
-
-## 👩‍💻 Author
-Armeen Huzaifa
-
 # Project 3 – Nature Foods | UI/UX Mobile App Design
 
 Nature Foods is a modern and user-friendly mobile app UI designed for an organic grocery shopping experience. The objective of this project was to create a clean, visually appealing, and easy-to-use interface that allows users to browse fresh products, view detailed product information, and shop effortlessly.
@@ -100,5 +88,37 @@ Special thanks to **Decodelabs** for providing this valuable internship opportun
 
 If you like this project, feel free to ⭐ this repository and share your feedback!
 
+
+# 📱 Project 4: Nature Foods – UI/UX Mobile App Prototype
+
+## 📌 Project Overview
+Nature Foods is a modern mobile app UI/UX prototype designed to provide users with a smooth and user-friendly online grocery shopping experience. The project focuses on clean visuals, intuitive navigation, and interactive prototyping to deliver a seamless user experience.
+
+## ✨ Features
+- Splash Screen
+- Home Screen
+- Product Details Screen
+- Interactive Prototyping
+- Clean & Modern UI
+- User-Friendly Navigation
+
+## 🛠️ Tools Used
+- Figma
+
+## 🎯 My Role
+- UI Design
+- UX Design
+- Wireframing
+- Prototyping
+- User Flow Design
+
+## 🔗 Figma Design
+**Nature Foods UI/UX Prototype:**  
+https://www.figma.com/design/aYlKoOAn3ZBsc3l9XrhBmp/Untitled?node-id=0-1&t=gz7o5D7JmwCHCHJs-1
+
+## 📚 Internship
+This project was created during my **DecodeLabs UI/UX Design Internship**, where I designed a user-friendly grocery shopping mobile app prototype and enhanced my UI/UX design and prototyping skills.
+
 ## 👩‍💻 Author
 Armeen Huzaifa
+
